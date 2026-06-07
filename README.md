@@ -1,29 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shivam Pawar</h1>
-<h3 align="center">AI/ML Engineer • Full Stack Developer • Research Enthusiast</h3>
-
 <p align="center">
-Building intelligent systems that bridge the gap between research and real-world applications.
+AI/ML Engineer • Full Stack Developer • Research Enthusiast
 </p>
 
 ---
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Student
-
-🏆 Dean's List Awardee (Semester 1 & Semester 2)
-
-🤖 Passionate about Artificial Intelligence, Machine Learning, and AI Products
-
-🔬 Interested in Explainable AI, LLM Applications, and Research Automation
-
-🌱 Currently Building:
-- **ElysiaHire** – AI-Powered Career Preparation Platform
-- **AetherReview** – Research Novelty Detection System
-
-🎯 Goal:
-- Build impactful AI products used by thousands of users
-- Contribute to research-driven and industry-focused AI solutions
+B.Tech Computer Science student passionate about AI/ML, full-stack development, and building impactful products. Currently focused on AI-powered applications, research-driven systems, and software engineering for real-world problems.
 
 ---
 
@@ -58,13 +42,6 @@ Building intelligent systems that bridge the gap between research and real-world
 | **AetherReview** | AI-based research novelty detection system that identifies research gaps, analyzes literature, and evaluates innovation potential. | `Python` `FastAPI` `LLMs` `NLP` | ⚙️ In Progress |
 | **CLEAR-AI** | Explainable healthcare AI framework for respiratory disease risk prediction using interpretable machine learning models. | `Python` `XGBoost` `SHAP` | 📄 Research |
 
-## 🏆 Achievements
-
-- Dean's List Awardee — Semester 1
-- Dean's List Awardee — Semester 2
-- Built Explainable Healthcare AI Framework
-- Active Contributor to AI and Full-Stack Development Projects
-
 ---
 
 ## 📚 Currently Learning
@@ -75,6 +52,8 @@ Building intelligent systems that bridge the gap between research and real-world
 | AI Engineering | LLM Applications, Prompt Engineering, RAG Systems |
 | Backend Development | FastAPI, System Design, API Architecture |
 | Placement Preparation | DSA, Core CS, Interview Preparation |
+
+---
 
 ## 🤝 Connect With Me
 
