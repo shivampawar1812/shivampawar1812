@@ -28,7 +28,7 @@ B.Tech Computer Science student passionate about AI/ML, full-stack development, 
 |----------|-------------|------------|----------|
 | **ElysiaHire** | AI-powered career preparation and interview intelligence platform with ATS analysis, mock interviews, and personalized career roadmaps. | `React` `Node.js` `MongoDB` | 🚀 Active |
 | **AetherReview** | AI-based research novelty detection system that identifies research gaps, analyzes literature, and evaluates innovation potential. | `Python` `FastAPI` `LLMs` `NLP` | ⚙️ In Progress |
-| **CLEAR-AI** | Explainable healthcare AI framework for respiratory disease risk prediction using interpretable machine learning models. | `Python` `XGBoost` `SHAP` | 📄 Research |
+| **EXHALE-Framework** | Explainable healthcare AI framework for respiratory disease risk prediction using interpretable machine learning models. | `Python` `XGBoost` `SHAP` | 📄 Research |
 
 ---
 
