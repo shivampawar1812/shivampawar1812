@@ -26,7 +26,7 @@ B.Tech Computer Science student passionate about AI/ML, full-stack development, 
 
 | Project | Description | Tech Stack | Status |
 |----------|-------------|------------|----------|
-| **ElysiaHire** | AI-powered career preparation and interview intelligence platform with ATS analysis, mock interviews, and personalized career roadmaps. | `React` `Node.js` `MongoDB` | 🚀 Active |
+| **FutureYou** | AI-powered Financial Digital Twin that simulates future financial outcomes, evaluates life decisions, and provides personalized financial guidance through Agentic AI. | `Python` `FastAPI` `LLMs` `Agentic AI` | 🚀 Active |
 | **AetherReview** | AI-based research novelty detection system that identifies research gaps, analyzes literature, and evaluates innovation potential. | `Python` `FastAPI` `LLMs` `NLP` | ⚙️ In Progress |
 | **EXHALE-Framework** | Explainable healthcare AI framework for respiratory disease risk prediction using interpretable machine learning models. | `Python` `XGBoost` `SHAP` | 📄 Research |
 
@@ -36,7 +36,6 @@ B.Tech Computer Science student passionate about AI/ML, full-stack development, 
 
 | Domain | Topics |
 |----------|----------|
-| Data Structures & Algorithms | Arrays, Linked Lists, Trees, Graphs, Dynamic Programming |
 | AI Engineering | LLM Applications, Prompt Engineering, RAG Systems |
 | Backend Development | FastAPI, System Design, API Architecture |
 | Placement Preparation | DSA, Core CS, Interview Preparation |
