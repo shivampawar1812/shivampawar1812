@@ -32,16 +32,6 @@ B.Tech Computer Science student passionate about AI/ML, full-stack development, 
 
 ---
 
-## 📚 Currently Learning
-
-| Domain | Topics |
-|----------|----------|
-| AI Engineering | LLM Applications, Prompt Engineering, RAG Systems |
-| Backend Development | FastAPI, System Design, API Architecture |
-| Placement Preparation | DSA, Core CS, Interview Preparation |
-
----
-
 ## 🤝 Connect With Me
 
 <p>
