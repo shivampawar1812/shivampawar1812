@@ -26,7 +26,7 @@ B.Tech Computer Science student passionate about AI/ML, full-stack development, 
 
 | Project | Description | Tech Stack | Status |
 |----------|-------------|------------|----------|
-| **FutureYou** | AI-powered Financial Digital Twin that simulates future financial outcomes, evaluates life decisions, and provides personalized financial guidance through Agentic AI. | `Python` `FastAPI` `LLMs` `Agentic AI` | 🚀 Active |
+| **Rozgo** | Worker-first platform connecting local workers with customers, making employment more accessible, trusted, and organized. | `React` `FastAPI` `Python` `PostgreSQL` | 🚀 Active |
 | **AetherReview** | AI-based research novelty detection system that identifies research gaps, analyzes literature, and evaluates innovation potential. | `Python` `FastAPI` `LLMs` `NLP` | ⚙️ In Progress |
 | **EXHALE-Framework** | Explainable healthcare AI framework for respiratory disease risk prediction using interpretable machine learning models. | `Python` `XGBoost` `SHAP` | 📄 Research |
 
