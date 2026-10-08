@@ -21,19 +21,13 @@ Alongside development and research, I actively practice **Data Structures & Algo
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### AI / ML
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
-
-### AI Engineering
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-6C47FF?style=for-the-badge)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge)
 
 ### Full Stack
@@ -41,12 +35,6 @@ Alongside development and research, I actively practice **Data Structures & Algo
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Databases & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -62,39 +50,12 @@ Alongside development and research, I actively practice **Data Structures & Algo
 
 ## 🧠 Data Structures & Algorithms
 
-**110+ LeetCode problems solved in C++**, covering:
-
-- Arrays & Hash Tables
-- Binary Search
-- Two Pointers
-- Sorting
-- Dynamic Programming
-- Divide & Conquer
-- Monotonic Stack
+**110+ LeetCode problems solved in C++**
 
 🔗 **[View my LeetCode Profile](https://leetcode.com/u/shivam1817/)**
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Rank 1 from College — Smart India Hackathon 2026** with the ROZgo team
-- 🧠 Built multiple **AI/ML and research-oriented systems**
-- 📚 **NPTEL Elite Certification** — Data Structures and Algorithms Design, IIT Kanpur
-- 🏅 **Dean's List** — Outstanding Academic Performance
-
----
-
-## 🎯 Currently Learning
-
-- Data Structures & Algorithms
-- Advanced Machine Learning & Deep Learning
-- RAG & LLM Application Development
-- AI Agents
-- System Design & Backend Engineering
-- Production-grade AI applications
-
----
 
 ## 🤝 Connect With Me
 
